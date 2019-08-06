@@ -30,4 +30,5 @@ void cat(int argc, char *argv[]) {
 
 int main(int argc, char *argv[]) {
     cat(argc, argv);
+    return 0;
 }

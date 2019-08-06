@@ -31,5 +31,5 @@ int main() {
     }
 
     fprintf(stdout, "%u %u %lu\n", number_of_lines, number_of_words, number_of_bytes);
-    return 1;
+    return 0;
 }

@@ -6,5 +6,5 @@ int main() {
         length++;
     }
     fprintf(stdout, "%lu\n", length);
-    return 1;
+    return 0;
 }
